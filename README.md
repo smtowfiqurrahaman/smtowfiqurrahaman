@@ -42,8 +42,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smtowfiqurrahaman&show_icons=true&locale=en&layout=compact" alt="smtowfiqurrahaman" /></p>  <!--Top Languagess-->
+<br>
 
-&nbsp &nbsp &nbsp
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smtowfiqurrahaman&" alt="smtowfiqurrahaman" /></p>
 
  
