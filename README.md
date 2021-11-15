@@ -40,11 +40,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smtowfiqurrahaman&show_icons=true&locale=en" alt="smtowfiqurrahaman" /></p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smtowfiqurrahaman&show_icons=true&locale=en&layout=compact" alt="smtowfiqurrahaman" /></p>  <!--Top Languagess-->
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smtowfiqurrahaman&" alt="smtowfiqurrahaman" /></p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smtowfiqurrahaman&show_icons=true&locale=en&layout=compact" alt="smtowfiqurrahaman" /></p>  Top Languagess-->
+ 
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/top-langs?username=smtowfiqurrahaman&show_icons=true&locale=en&layout=compact" alt="smtowfiqurrahaman" /></p>
-<!-- </a> -->
 
