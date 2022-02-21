@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/smtowfiqur" target="blank"><img src="https://img.shields.io/twitter/follow/smtowfiqur?logo=twitter&style=for-the-badge" alt="smtowfiqur" /></a> </p>
 
-- 🔭 I’m currently working on **Apps Development**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Dart**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Laravel**
 
 - 💬 Ask me about **Anything 😎**
 
