@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://twitter.com/smtowfiqur" target="blank"><img src="https://img.shields.io/twitter/follow/smtowfiqur?logo=twitter&style=for-the-badge" alt="smtowfiqur" /></a> </p>
 
+/play ohmy
+
 - 🔭 I’m currently working on **PHP & Laravel**
 
 - 🌱 I’m currently learning **Laravel**
